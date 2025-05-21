@@ -3,8 +3,8 @@
 # Aim:
   To Perform Data Visualization using seaborn python library for the given datas.
 ```
- NAME  :KAVINRAJ.S
- REG NO:212223100019
+ NAME  :VIRUMAA HARISH M
+ REG NO:212223230246
 ```
 
 # EXPLANATION:
